@@ -6,6 +6,7 @@ from temperature_info import TemperatureData
 from humidity_info import HumidityData
 from statistics import mean
 from particle_count_info import ParticleData
+from energy_info import EnergyData
 
 ##############################
 # Do not remove these two lines
